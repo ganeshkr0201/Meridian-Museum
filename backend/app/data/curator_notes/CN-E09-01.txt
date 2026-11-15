@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E09-01
+EXHIBIT_ID: E09
+TITLE: Curator Note — Mineral and Crystal Collection: Formation and Hardness
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The 200-specimen mineral collection is organised by hardness using the Mohs scale, running from talc (hardness 1) at the left of the display to corundum (hardness 9) at the right. The showcase geode at centre was formed in a fictional volcanic basalt cavity over an estimated 50,000 years as silica-rich groundwater slowly deposited amethyst crystals inward from the cavity wall. The largest crystal points measure 18 centimetres. Tactile samples in the interaction drawer allow visitors to compare the slipperiness of talc with the scratching resistance of quartz, providing a practical demonstration of crystal hardness differences.

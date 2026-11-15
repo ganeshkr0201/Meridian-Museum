@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E08-01
+EXHIBIT_ID: E08
+TITLE: Curator Note — Fossil Display: Stonewood Basin Megafauna
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The Stonewood Basin fossil beds represent a fictional Pleistocene-equivalent stratum in the northern Meridian continent. The megafaunal skeletal cast displayed centrally belongs to a fictional species called the Stonewood Grazer, an elephant-sized herbivore with distinctive broad molars adapted for processing coarse grasses. Associated fauna include a large freshwater turtle, a sabre-toothed predator, and several bird species known only from isolated bones. The fossilisation conditions (anoxic lake sediment) preserved bone microstructure in exceptional detail, allowing the museum's research team to estimate growth rates from cortical bone layering patterns.

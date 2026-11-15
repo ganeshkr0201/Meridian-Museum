@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E07-01
+EXHIBIT_ID: E07
+TITLE: Curator Note — Mechanical Engineering Models: Gear Trains and Water Power
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The water-powered mill model on display demonstrates a horizontal paddle-wheel driving a vertical shaft through a pair of bevel gears. The gear ratio of 1:4 steps up rotational speed to grind grain efficiently. The fictional Meridian engineers who designed this system described it in a manuscript titled "On the Turning of Mills" (fictional reference MAN-07-A). The printing press model adjacent to it uses a screw mechanism to generate approximately 300 kilograms of downward force from a modest hand-lever effort, illustrating mechanical advantage principles accessible to secondary and tertiary students.

@@ -1,0 +1,9 @@
+SOURCE_ID: CN-E02-01
+EXHIBIT_ID: E02
+TITLE: Curator Note — Ancient Trade Seals: Administration and Identity
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The 47 steatite seals in this collection were carved using bow-drills and copper burins. Each seal face measures between 2 and 4 centimetres square. Animal motifs — the unicorn-bull, the humped ox, and the crocodile — are the most frequently occurring subjects. A small number of purely geometric seals may represent a secondary scribal tradition. Modern facsimile clay impressions are displayed beside each original to illustrate the negative-to-positive transfer.
+
+Scholars of the fictional Meridian civilisation interpret these seals as identity and authority tokens used at customs checkpoints along river trade routes. The consistent repetition of motifs across distant fictional sites supports the hypothesis of a literate administrative class with mutual recognition protocols.

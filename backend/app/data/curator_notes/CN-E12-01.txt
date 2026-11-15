@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E12-01
+EXHIBIT_ID: E12
+TITLE: Curator Note — Regional Craft Exhibition: Six Craft Traditions of the Halcyon Nation
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The rotating Regional Craft Exhibition draws from six provinces of the fictional Halcyon Nation. The pottery tradition of the northern Stonewood Province uses a distinctive red slip fired in a reduction kiln, producing a smoky grey-black surface marked by subtle iridescence. The basketry of the coastal Mara Province employs sea-grass and split palm fronds to create load-bearing storage containers documented in fictional trade records as far back as the third fictional century. Woodcarving from the Velanthi interior uses a single curved adze to produce relief panels depicting agricultural cycles. Lacquerwork from the Kalavar highlands applies up to thirty alternating layers of tree sap and mineral pigment, requiring several months of drying between coats. The metalwork section showcases cast bronze jewellery and ceremonial vessels from the Meridian plains tradition, while the bead jewellery display presents seed-bead and glass-bead work from the river delta communities whose colour vocabulary encodes clan identity and seasonal celebration.

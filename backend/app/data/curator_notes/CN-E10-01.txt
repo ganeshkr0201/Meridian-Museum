@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E10-01
+EXHIBIT_ID: E10
+TITLE: Curator Note — Biodiversity Diorama: Biomes of the Meridian Continent
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The diorama was constructed over 18 months by a team of model-makers and ecologists specialising in the fictional Meridian continent biomes. The rainforest section models a closed-canopy forest with 32 distinct plant species represented. The grassland section shows a dry-season savanna with a predator-prey pair illustrative of trophic relationships. The desert panel highlights xerophyte adaptations including waxy cuticles and deep taproots. The coastal wetland section demonstrates mangrove root architecture and its role in coastal protection and nursery habitat for juvenile fish species. Each panel includes a food web diagram and a list of conservation pressures facing each biome in the fictional Meridian ecological zone.

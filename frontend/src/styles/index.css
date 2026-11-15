@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-museum-bg text-museum-text font-body;
+  }
+  h1, h2, h3 {
+    @apply font-display;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-museum-accent text-white px-6 py-2 rounded font-semibold hover:bg-amber-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  .btn-secondary {
+    @apply border border-museum-border text-museum-text px-6 py-2 rounded hover:bg-museum-light transition-colors;
+  }
+  .card {
+    @apply bg-white border border-museum-border rounded-lg p-5 shadow-sm;
+  }
+  .badge {
+    @apply inline-block px-2 py-0.5 text-xs rounded-full border;
+  }
+  .badge-green {
+    @apply badge bg-green-50 text-green-700 border-green-200;
+  }
+  .badge-amber {
+    @apply badge bg-amber-50 text-amber-700 border-amber-200;
+  }
+  .badge-red {
+    @apply badge bg-red-50 text-red-700 border-red-200;
+  }
+  .badge-blue {
+    @apply badge bg-blue-50 text-blue-700 border-blue-200;
+  }
+}

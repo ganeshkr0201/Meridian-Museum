@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E11-01
+EXHIBIT_ID: E11
+TITLE: Curator Note — Historical Coin Collection: Monetary Systems
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The 300-coin collection is arranged in three chronological sections. The earliest Meridian Republic coins are cast bronze with a simple weight-mark obverse and blank reverse, suggesting a purely utilitarian exchange function. Later Velanthi Principality coins are struck silver with a portrait obverse and an agricultural motif reverse, indicating the emergence of ruler iconography as a propaganda tool. The Coastal Trade League coins are the most varied: struck in both silver and an unusual yellow copper-zinc alloy, they carry bilingual inscriptions reflecting the multilingual character of the fictional coastal trading ports. The collection notes that denominations were standardised across all three traditions at the ratio 1:4:16, facilitating inter-state commerce.

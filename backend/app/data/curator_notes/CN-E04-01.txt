@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E04-01
+EXHIBIT_ID: E04
+TITLE: Curator Note — Traditional Textiles: Weaving Technology
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The backstrap loom displayed in the centre of this exhibit was used to produce the indigo-dyed cotton cloth labelled item T-04-C. The warp-resist dyeing technique (a precursor to ikat) required the weaver to bind and dye thread in precise sequences before mounting it on the loom. Each metre of finished cloth required an estimated 40 to 60 hours of preparation and weaving. The exhibit includes a step-by-step photographic panel showing the full production sequence.

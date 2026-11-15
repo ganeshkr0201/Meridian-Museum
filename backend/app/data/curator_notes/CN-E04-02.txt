@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E04-02
+EXHIBIT_ID: E04
+TITLE: Curator Note — Traditional Textiles: Social Significance
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+In the fictional Halcyon Region, textile patterns communicated social status, clan affiliation, and ceremonial role. Marriage garments used a distinctive double-diamond chevron border that is not found on everyday wear. Funerary wrappings used a plain white ground cloth with a single red selvedge line. The colour indigo was reserved for elder craftspeople and community leaders, while natural-dyed ochre patterns were accessible to all social strata. These conventions are documented in fictional ethnographic records held by the Halcyon Archive, cited in catalogue entry CAT-E04.

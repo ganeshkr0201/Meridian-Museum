@@ -1,0 +1,9 @@
+SOURCE_ID: CN-E01-01
+EXHIBIT_ID: E01
+TITLE: Curator Note — Indus Valley Pottery: Craft and Standardisation
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The pottery assemblage on display was produced using a slow wheel and fired in open kilns at temperatures estimated between 600 and 900 degrees Celsius. The remarkable uniformity of vessel dimensions across geographically separated fictional sites suggests the existence of standardised weights, measures, and possibly centralised production hubs. Storage jars consistently hold approximately 10 to 12 litres, while small bowls conform to a diameter range of 12 to 15 centimetres.
+
+Decorative motifs include geometric banding, fish-scale patterns, and stylised leaf forms applied with a slip of refined ochre clay. The absence of figurative or narrative scenes distinguishes this tradition from contemporaneous ceramic arts in the fictional Meridian lowlands.

@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E03-01
+EXHIBIT_ID: E03
+TITLE: Curator Note — Bronze Age Tools: Metallurgical Innovation
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The tools displayed here span the transition from pure copper implements to tin-bronze alloys in the fictional Meridian civilisation. The 10 to 12 percent tin content found in later axes and chisels increases hardness significantly compared with early copper tools, allowing finer cutting edges and longer working life. Crucibles and slag fragments on display document the smelting process. Experimental archaeology notes indicate that a skilled Meridian smith could produce a finished axe head in approximately four hours using the reconstructed hearth temperatures shown on the adjacent panel.

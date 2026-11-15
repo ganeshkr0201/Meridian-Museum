@@ -1,0 +1,82 @@
+[
+  {
+    "visitor_id": "visitor_01",
+    "display_name": "Aryan (Ancient History Enthusiast)",
+    "interests": ["ancient_history", "archaeology"],
+    "time_budget_minutes": 60,
+    "accessibility_needs": [],
+    "language": "en",
+    "commentary_length": "medium",
+    "memory_mode": "persistent"
+  },
+  {
+    "visitor_id": "visitor_02",
+    "display_name": "Priya (Art and Culture Enthusiast)",
+    "interests": ["art", "local_culture"],
+    "time_budget_minutes": 45,
+    "accessibility_needs": [],
+    "language": "en",
+    "commentary_length": "medium",
+    "memory_mode": "persistent"
+  },
+  {
+    "visitor_id": "visitor_03",
+    "display_name": "Dev (Science and Technology Enthusiast)",
+    "interests": ["science", "technology"],
+    "time_budget_minutes": 50,
+    "accessibility_needs": [],
+    "language": "en",
+    "commentary_length": "medium",
+    "memory_mode": "persistent"
+  },
+  {
+    "visitor_id": "visitor_04",
+    "display_name": "Nisha (Natural History Enthusiast)",
+    "interests": ["natural_history"],
+    "time_budget_minutes": 35,
+    "accessibility_needs": [],
+    "language": "en",
+    "commentary_length": "short",
+    "memory_mode": "persistent"
+  },
+  {
+    "visitor_id": "visitor_05",
+    "display_name": "Rahul (Broad Interests)",
+    "interests": ["ancient_history", "science", "natural_history", "art"],
+    "time_budget_minutes": 90,
+    "accessibility_needs": [],
+    "language": "en",
+    "commentary_length": "long",
+    "memory_mode": "persistent"
+  },
+  {
+    "visitor_id": "visitor_06",
+    "display_name": "Meera (Ancient History & Coins, Limited Time)",
+    "interests": ["ancient_history", "coins"],
+    "time_budget_minutes": 30,
+    "accessibility_needs": ["reduced_walking"],
+    "language": "en",
+    "commentary_length": "short",
+    "memory_mode": "persistent"
+  },
+  {
+    "visitor_id": "visitor_07",
+    "display_name": "Anjali (Art, Textiles, Culture — Wheelchair User)",
+    "interests": ["art", "textiles", "regional_craft", "local_culture"],
+    "time_budget_minutes": 60,
+    "accessibility_needs": ["wheelchair", "step_free"],
+    "language": "en",
+    "commentary_length": "medium",
+    "memory_mode": "persistent"
+  },
+  {
+    "visitor_id": "visitor_08",
+    "display_name": "Ravi (Mixed Interests, Avoid Stairs)",
+    "interests": ["science", "ancient_history", "natural_history"],
+    "time_budget_minutes": 40,
+    "accessibility_needs": ["avoid_stairs", "seating_breaks"],
+    "language": "en",
+    "commentary_length": "short",
+    "memory_mode": "persistent"
+  }
+]

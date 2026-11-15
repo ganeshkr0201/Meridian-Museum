@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E05-01
+EXHIBIT_ID: E05
+TITLE: Curator Note — Miniature Paintings: Technique and Materials
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The Velanthi court painting tradition used squirrel-hair brushes with tips shaped to a single point. Pigments were ground from lapis lazuli substitute (a fictional blue mineral called Velanthi stone), vermilion, lamp black, and gold leaf. The ivory ground required careful preparation with gesso before receiving the under-drawing in charcoal. The varnishing layer, applied from a resin solution, is responsible for the deep luminosity still visible in well-preserved examples. Each painting in this collection is accompanied by an interpretation card explaining the narrative or botanical subject it depicts.

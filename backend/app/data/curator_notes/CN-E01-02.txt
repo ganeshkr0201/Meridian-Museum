@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E01-02
+EXHIBIT_ID: E01
+TITLE: Curator Note — Indus Valley Pottery: Trade and Distribution
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+Pottery recovered from the fictional Stonewood Basin trade routes indicates long-distance exchange of ceramic goods. Residue analysis of storage jars has identified traces of grain, oil, and dried fish, confirming their role in provisioning merchant caravans. Some vessels bear incised owner marks on the base that correspond to seal impressions found in the Ancient Trade Seals collection (Exhibit E02), suggesting the same merchant network used both seals and standardised pottery as commercial instruments.

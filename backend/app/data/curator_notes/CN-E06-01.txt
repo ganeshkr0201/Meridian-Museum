@@ -1,0 +1,7 @@
+SOURCE_ID: CN-E06-01
+EXHIBIT_ID: E06
+TITLE: Curator Note — Early Astronomy Instruments: The Solaris Observatory Tradition
+AUTHOR: Museum Curatorial Team
+COLLECTION: Meridian Museum of World Cultures — Fictional Demonstration Dataset
+
+The Solaris Observatory, a fictional institution in the northern fictional city of Kalavar, produced the astrolabe and quadrant designs displayed here. The astrolabe's rete is engraved with 24 star positions calibrated for the latitude of Kalavar (fictional 28 degrees north). The graduated quadrant beside it was used for measuring the altitude of the Sun at noon to determine the solstice date, which governed the fictional Meridian agricultural calendar. The observatory's astronomers developed a 365.25-day calendar correction seven fictional centuries before the fictional Halcyon reform, according to records cited in catalogue entry CAT-E06.

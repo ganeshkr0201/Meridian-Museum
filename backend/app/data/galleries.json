@@ -1,0 +1,54 @@
+[
+  {
+    "gallery_id": "G01",
+    "name": "Ancient Civilisations Gallery",
+    "floor": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "is_accessible": true,
+    "crowd_state": "normal",
+    "opening_hours": {
+      "open": "09:00",
+      "close": "17:00"
+    }
+  },
+  {
+    "gallery_id": "G02",
+    "name": "Science and Innovation Gallery",
+    "floor": 1,
+    "x": 50.0,
+    "y": 0.0,
+    "is_accessible": true,
+    "crowd_state": "normal",
+    "opening_hours": {
+      "open": "09:00",
+      "close": "17:00"
+    }
+  },
+  {
+    "gallery_id": "G03",
+    "name": "Art and Culture Gallery",
+    "floor": 1,
+    "x": 50.0,
+    "y": 50.0,
+    "is_accessible": true,
+    "crowd_state": "normal",
+    "opening_hours": {
+      "open": "10:00",
+      "close": "16:00"
+    }
+  },
+  {
+    "gallery_id": "G04",
+    "name": "Natural History Gallery",
+    "floor": 0,
+    "x": 0.0,
+    "y": 50.0,
+    "is_accessible": true,
+    "crowd_state": "normal",
+    "opening_hours": {
+      "open": "09:00",
+      "close": "17:00"
+    }
+  }
+]
